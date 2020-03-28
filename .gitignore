@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 #Master Ignore
+=======
+#Files to be ignored
+>>>>>>> changeToTed
 
 .DS_Store
